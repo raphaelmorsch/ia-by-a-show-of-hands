@@ -1,0 +1,5 @@
+entre-0-15-porcento
+entre-50-75-porcento
+entre15-30-porcento
+entre30-50-porcento
+mais-de-75-porcento

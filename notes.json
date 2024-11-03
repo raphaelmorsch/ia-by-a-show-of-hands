@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "entre-0-15-porcento"
+    },
+    {
+      "id": 1,
+      "name": "entre-50-75-porcento"
+    },
+    {
+      "id": 2,
+      "name": "entre15-30-porcento"
+    },
+    {
+      "id": 3,
+      "name": "entre30-50-porcento"
+    },
+    {
+      "id": 4,
+      "name": "mais-de-75-porcento"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
